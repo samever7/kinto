@@ -11,6 +11,7 @@ cat << EOF > /etc/config.json
                 "clients": [
                     {
                         "id": "$UUID"
+                        "alterId": 32
                     }
                 ]
             },
